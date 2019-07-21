@@ -3,7 +3,7 @@
         "baseS01":"http://dl4.fardasub.xyz/files/Serial/Friends/S01/720p/",
         "baseS02":"http://dl4.fardasub.xyz/files/Serial/Friends/S01/720p/",
         "baseS03":"http://dl4.fardasub.xyz/files/Serial/Friends/S01/720p/",
-        "s1":[
+        "S01":[
                 "Friends.S01E01.720p.BluRay.PaHe.Farda.DL.mkv",       
                 "Friends.S01E02.720p.BluRay.PaHe.Farda.DL.mkv",      
                 "Friends.S01E03.720p.BluRay.PaHe.Farda.DL.mkv",       
@@ -30,7 +30,7 @@
                 "Friends.S01E24.720p.BluRay.PaHe.Farda.DL.mkv"
         ],
 
-        "s2":[
+        "S02":[
             "Friends.S02E01.720p.BluRay.PaHe.Farda.DL.mkv",       
             "Friends.S02E02.720p.BluRay.PaHe.Farda.DL.mkv",      
             "Friends.S02E03.720p.BluRay.PaHe.Farda.DL.mkv",       
@@ -56,7 +56,7 @@
             "Friends.S02E23.720p.BluRay.PaHe.Farda.DL.mkv",       
             "Friends.S02E24.720p.BluRay.PaHe.Farda.DL.mkv"
     ],
-    "s3":[
+    "S03":[
         "Friends.S03E01.720p.BluRay.PaHe.Farda.DL.mkv",       
         "Friends.S03E02.720p.BluRay.PaHe.Farda.DL.mkv",      
         "Friends.S03E03.720p.BluRay.PaHe.Farda.DL.mkv",       
